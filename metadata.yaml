@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1371'
     url: http://www.gutenberg.org/2009/agents/1371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27174#Captain-Jim
 gutenberg_issued: '2008-11-06'
 gutenberg_type: Text
 identifiers:
